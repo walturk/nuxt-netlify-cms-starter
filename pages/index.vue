@@ -1,7 +1,7 @@
 <template>
   <div>
     <logo />
-    <h1 class="title">Compare Car Dealers</h1>
+    <h1 class="title">Compare Car Dealers xxxxxxxx</h1>
     <h2 class="subtitle">Truly fantastic. Sometimes I astound even myself.</h2>
     <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
     <a href="http://i.ncredibly.online">Twitter</a>
